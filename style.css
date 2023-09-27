@@ -1,0 +1,22 @@
+* {
+    color: #333333;
+}
+
+hr {
+    background-color: #555555;
+    border-radius: 4px;
+    border: none;
+    height: 6px;
+}
+
+ul li {
+    list-style-type: disc;
+}
+
+#oszto {
+    display: flex;
+}
+
+#kep img {
+    width: 80px;
+}
